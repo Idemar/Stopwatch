@@ -1,0 +1,30 @@
+body{
+    background-color: cornsilk;
+}
+
+.watchbox{
+    width: 800px;
+    margin: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2.4em;
+    text-align: center;
+}
+
+button{
+    color: white;
+    background-color: darkgray;
+    border-radius: 25px;
+    width: 180px;
+    padding: 18px 10px;
+    margin: 10px;
+}
+
+button:hover{
+    background-color: white;
+    color: red;
+}
+
+p{
+    text-align: left;
+    margin-left: 44%;
+}
